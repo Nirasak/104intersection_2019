@@ -30,3 +30,6 @@ in this project are:
 | (xp, yp, zp) |  coordinates of a point by which the light ray passes through                                         |
 | (xv, yv, zv) |  coordinates of a vector parallel to the light ray                                                    |
 | p            |  parameter: radius of the sphere, radius of the cylinder, or angle formed by the cone and the Z-axis  |
+
+## Result
+89.1% moulinette Epitech
